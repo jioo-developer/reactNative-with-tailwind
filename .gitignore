@@ -10,7 +10,6 @@ web-build/
 expo-env.d.ts
 
 # Native
-.kotlin/
 *.orig.*
 *.jks
 *.p8
@@ -36,4 +35,5 @@ yarn-error.*
 # typescript
 *.tsbuildinfo
 
-app-example
+google-services.json
+community-a9ba0-firebase-adminsdk-fbsvc-2a23facd53.json
